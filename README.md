@@ -25,3 +25,6 @@ The dataset underwent significant transformation:
 ![Model Accuracy](results/model_accuracy.png)
 
 ![Model Loss](results/model_loss.png)
+
+## Paper
+![Research Paper](papers/Loan Default Prediction.pdf)
