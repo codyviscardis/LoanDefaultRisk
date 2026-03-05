@@ -27,4 +27,8 @@ The dataset underwent significant transformation:
 ![Model Loss](results/model_loss.png)
 
 ## Paper
-![Research Paper](papers/Loan_Default_Prediction.pdf)
+# Loan Default Prediction Research
+
+[![Paper Preview](papers/paper_preview.png)](papers/Loan_Default_Prediction.pdf)
+
+[Click here to view the full PDF](papers/Loan_Default_Prediction.pdf)
